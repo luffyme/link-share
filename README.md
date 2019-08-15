@@ -20,6 +20,8 @@
 [大众点评订单系统分库分表实践](https://zhuanlan.zhihu.com/p/24036067)     
 [说说分库分表的一个最佳实践](https://mp.weixin.qq.com/s/B4JwxxkJkLVaorNm0L5fCQ)                 
 
+[IaaS，PaaS，SaaS 的区别](http://www.ruanyifeng.com/blog/2017/07/iaas-paas-saas.html)
+
 ### 20190811
 
 [今日热榜](https://tophub.today/)     
