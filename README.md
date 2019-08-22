@@ -8,15 +8,14 @@
 
 ### 20190822
 
-[分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+[分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)               
+[前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)               
+[前端安全系列（二）：如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)                         
 
-[前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
-[前端安全系列（二）：如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
-
-[神级注释](https://github.com/Blankj/awesome-comment)
-[语雀 IT 百科](https://www.yuque.com/yuque/blog/yuque-info-tech-encyclopedia)
-[彻底理解 cookie、session、token](https://mp.weixin.qq.com/s/1Kh18uyEJzM21mc2l5MMCg)
-[正则表达式教程](https://github.com/ziishaned/learn-regex)
+[神级注释](https://github.com/Blankj/awesome-comment)            
+[语雀 IT 百科](https://www.yuque.com/yuque/blog/yuque-info-tech-encyclopedia)         
+[彻底理解 cookie、session、token](https://mp.weixin.qq.com/s/1Kh18uyEJzM21mc2l5MMCg)     
+[正则表达式教程](https://github.com/ziishaned/learn-regex)     
 
 ### 20190815
 
