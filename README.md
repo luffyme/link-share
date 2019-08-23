@@ -16,7 +16,7 @@
 [txqr：通过动态二维码传输数据](https://github.com/divan/txqr)   
 [阮一峰的科技爱好者周刊](https://github.com/ruanyf/weekly)   
 [nginxconfig.io：在线生成 Nginx 配置文件网站](https://nginxconfig.io/)   
-
+[分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)   
 
 ### 20190822
 
