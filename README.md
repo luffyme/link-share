@@ -7,6 +7,15 @@
 [PHP专题](PHP.md)   
 [面试专题](interview.md)
 
+### 20190824
+
+[Nginx 所使用的 epoll 模型是什么？](https://mp.weixin.qq.com/s/VzxtmZ3sMiW3ClW5fxrb6g)   
+[研究完《长安12时辰》的望楼系统，我魔怔了](https://mp.weixin.qq.com/s/WGwx5iVz8Ip6mj8XGfuChQ)   
+[架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)   
+[煎鱼的迷之博客](https://github.com/EDDYCJY/blog)   
+[码农周刊 - 史上最全的编程学习资料合集](https://github.com/toutiaoio/weekly.manong.io)     
+
+
 ### 20190823
  
 [Prometheus教程](https://github.com/yunlzheng/prometheus-book)    
