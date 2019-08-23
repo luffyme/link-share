@@ -6,6 +6,17 @@
 [GO专题](Go.md)            
 [面试专题](interview.md)
 
+### 20190823
+ 
+[Prometheus教程](https://github.com/yunlzheng/prometheus-book)    
+[Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook)   
+[fe-necessary-book](https://github.com/ddzy/fe-necessary-book)    
+[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)    
+[txqr：通过动态二维码传输数据](https://github.com/divan/txqr)   
+[阮一峰的科技爱好者周刊](https://github.com/ruanyf/weekly)   
+[nginxconfig.io：在线生成 Nginx 配置文件网站](https://nginxconfig.io/)   
+
+
 ### 20190822
 
 [分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)               

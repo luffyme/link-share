@@ -1,6 +1,8 @@
 # Interview Link
 与面试相关的一些连接
 
+* [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
+* [PHP面试问答](https://github.com/colinlet/PHP-Interview-QA)
 * [Awesome Interview](https://github.com/Awesome-Interview/Awesome-Interview)
 * [前端面试每日 3+1（每日三问）](https://github.com/haizlin/fe-interview),每天不间断更新
 * [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
@@ -11,3 +13,6 @@
 * [每天周十道前端大厂面试题](https://github.com/airuikun/Weekly-FE-Interview)
 * [每天搞定一道前端大厂面试题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 * [超详细的Web前端学习图文教程](https://github.com/qianguyihao/Web)
+* [leetcode题解，记录自己的leetcode解题之路](https://github.com/azl397985856/leetcode)  
+* [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+* [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
