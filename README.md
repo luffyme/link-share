@@ -22,7 +22,11 @@
 [DDFE's blog](https://github.com/DDFE/DDFE-blog)   
 [程序员技能图谱](https://github.com/TeamStuQ/skill-map)    
 [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)     
-
+[和我一步步部署 kubernetes 集群](https://github.com/opsnull/follow-me-install-kubernetes-cluster)    
+[互联网公司经典技术架构](https://github.com/davideuler/architecture.of.internet-product)     
+[计算机相关技术资料整理](https://github.com/EZLippi/practical-programming-books)    
+[Linux 内核揭秘](https://github.com/MintCN/linux-insides-zh)   
+[收集各种爬虫](https://github.com/facert/awesome-spider)   
 
 ### 20190823
  

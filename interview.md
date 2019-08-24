@@ -16,9 +16,12 @@
 * [leetcode题解，记录自己的leetcode解题之路](https://github.com/azl397985856/leetcode)  
 * [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
-* [简历指南 + LeetCode + Kaggle](https://github.com/apachecn/Interview)   
+* [简历指南 + LeetCode + Kaggle](https://github.com/apachecn/Interview)  
+* [面试的图谱](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) 
+* [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)    
+* [Awesome Leetcode](https://github.com/tangweikun/awesome-leetcode)        
 
-### 经典面试题
+### 经典面试题 
 
 [高并发限流那些事](https://www.qianshan.tech/架构/高并发/高并发限流那些事.html)   
 [HTTPS运行原理解析](https://mp.weixin.qq.com/s/Yd9dVHTlGxFrfm0ynPnn4Q)    

@@ -4,6 +4,15 @@ Go学习文档
 ### 教程
 [Go语言101](https://gfw.go101.org/article/101.html)      
 [Go 开发者路线图](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md)         
+[Go 夜读]https://github.com/developer-learning/reading-go)      
+[Go 编程基础]https://github.com/Unknwon/go-fundamental-programming)     
+[Go Web 基础](https://github.com/Unknwon/go-web-foundation)   
+[Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)        
+[Go Web 编程（Asta谢）](https://github.com/astaxie/build-web-application-with-golang)     
+[《The Way to Go》 中文版《Go 入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
+[Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)    
+
+
 
 ### 第三方库
 [goalert - 一个基于 Go 语言实现的报警和处理报警系统](https://github.com/target/goalert)   
@@ -14,7 +23,9 @@ Go学习文档
 [micro/micro](https://github.com/micro/micro)   
 [go-sniffer：该工具通过抓包截取项目中的数据库、redis 请求解析成相应的语句](https://github.com/40t/go-sniffer)     
 [dive：用来探索 docker 镜像每一层文件系统](https://github.com/wagoodman/dive)   
-
+[go-mysql: Mysql binlog消费](https://github.com/siddontang/go-mysql)    
+[appify - Create a macOS Application from an executable](https://github.com/machinebox/appify)    
+[gopool - Golang分布式的连接池](https://github.com/aosen/gopool)    
 
 ### 比较杂的学习连接 
 
@@ -27,3 +38,4 @@ Go学习文档
 [o 程序是怎样跑起来的](https://mp.weixin.qq.com/s/Rewl0DKnq6CY53m5D3G2qw)    
 [Go内存分配那些事](https://mp.weixin.qq.com/s/3gGbJaeuvx4klqcv34hmmw)   
 [Go语言调度器 by povilas](https://pengrl.com/p/22729/)
+[编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)    
