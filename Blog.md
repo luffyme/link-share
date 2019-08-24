@@ -11,3 +11,6 @@
 * [掘金](https://juejin.im/)
 * [王垠](http://www.yinwang.org/)
 * [阮一峰](http://www.ruanyifeng.com/blog/archives.html)
+* [分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+* [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
+* [购物优惠](http://www.xsldh.net/)
