@@ -12,6 +12,8 @@ Go学习文档
 [Sniper - bilibili 开源的轻量级 Go 业务框架](https://github.com/bilibili/sniper)   
 [go-kit/kit](https://github.com/go-kit/kit)    
 [micro/micro](https://github.com/micro/micro)   
+[go-sniffer：该工具通过抓包截取项目中的数据库、redis 请求解析成相应的语句](https://github.com/40t/go-sniffer)     
+[dive：用来探索 docker 镜像每一层文件系统](https://github.com/wagoodman/dive)   
 
 
 ### 比较杂的学习连接 

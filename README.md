@@ -14,6 +14,14 @@
 [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)   
 [煎鱼的迷之博客](https://github.com/EDDYCJY/blog)   
 [码农周刊 - 史上最全的编程学习资料合集](https://github.com/toutiaoio/weekly.manong.io)     
+[开源项目挣钱实用手册](https://github.com/wizicer/FinancialSupportForOpenSource)    
+[Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)    
+[Puppeteer中文文档（官方指定的中文文档）](https://github.com/zhaoqize/puppeteer-api-zh_CN)    
+[SQL 速查表](https://github.com/enochtangg/quick-SQL-cheatsheet/blob/master/README_zh-hans.md)     
+[前端精读周刊](https://github.com/dt-fe/weekly)   
+[DDFE's blog](https://github.com/DDFE/DDFE-blog)   
+[程序员技能图谱](https://github.com/TeamStuQ/skill-map)    
+[系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)     
 
 
 ### 20190823

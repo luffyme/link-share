@@ -16,6 +16,7 @@
 * [leetcode题解，记录自己的leetcode解题之路](https://github.com/azl397985856/leetcode)  
 * [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+* [简历指南 + LeetCode + Kaggle](https://github.com/apachecn/Interview)   
 
 ### 经典面试题
 
