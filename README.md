@@ -42,7 +42,7 @@
 [ A distributed crawler for weibo](https://github.com/SpiderClub/weibospider)      
 [《微服务：从设计到部署》](https://github.com/DocsHome/microservices)       
 [《微服务：从设计到部署》](https://docshome.gitbooks.io/microservices/content/)    
-[Kubernetes中文指南/云原生应用架构实践手册]https://jimmysong.io/kubernetes-handbook/)      
+[Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)      
 [运维实践指南](https://github.com/meetbill/op_practice_book)      
 [中国远程工作资料大全](https://github.com/greatghoul/remote-working)      
 [walle - 瓦力 Devops开源项目代码部署平台](https://github.com/meolu/walle-web/blob/master/README.md)   

@@ -4,8 +4,8 @@ Go学习文档
 ### 教程
 [Go语言101](https://gfw.go101.org/article/101.html)      
 [Go 开发者路线图](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md)         
-[Go 夜读]https://github.com/developer-learning/reading-go)      
-[Go 编程基础]https://github.com/Unknwon/go-fundamental-programming)     
+[Go 夜读](https://github.com/developer-learning/reading-go)      
+[Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)     
 [Go Web 基础](https://github.com/Unknwon/go-web-foundation)   
 [Go名库讲解](https://github.com/Unknwon/go-rock-libraries-showcases)        
 [Go Web 编程（Asta谢）](https://github.com/astaxie/build-web-application-with-golang)     
