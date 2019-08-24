@@ -20,9 +20,18 @@
 * [面试的图谱](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) 
 * [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)    
 * [Awesome Leetcode](https://github.com/tangweikun/awesome-leetcode)        
+* [后端开发面试题](https://github.com/monklof/Back-End-Developer-Interview-Questions)
+* [一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)    
+* [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)       
+* [用 PHP 的方式实现的各类算法合集](https://github.com/PuShaoWei/arithmetic-php)          
+* [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)    
+* [前端开发面试题大收集，前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
+* [笔试面试知识整理](https://hit-alibaba.github.io/interview/index.html)    
+
 
 ### 经典面试题 
 
 [高并发限流那些事](https://www.qianshan.tech/架构/高并发/高并发限流那些事.html)   
 [HTTPS运行原理解析](https://mp.weixin.qq.com/s/Yd9dVHTlGxFrfm0ynPnn4Q)    
 [前端要知道的HTTPS](https://mp.weixin.qq.com/s/DIFf8VjduO5rviHkgR_8lg)    
+[当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)    

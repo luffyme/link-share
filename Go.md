@@ -11,7 +11,9 @@ Go学习文档
 [Go Web 编程（Asta谢）](https://github.com/astaxie/build-web-application-with-golang)     
 [《The Way to Go》 中文版《Go 入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)    
-
+[为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)        
+[gobyexample](https://gobyexample.com)    
+[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)        
 
 
 ### 第三方库
@@ -39,3 +41,6 @@ Go学习文档
 [Go内存分配那些事](https://mp.weixin.qq.com/s/3gGbJaeuvx4klqcv34hmmw)   
 [Go语言调度器 by povilas](https://pengrl.com/p/22729/)
 [编写和优化Go代码](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)    
+[Go社区的知识图谱](https://github.com/gocn/knowledge)      
+[gophers的各种图标](https://github.com/egonelbre/gophers)   
+[Golang implementation of JSON Web Tokens (JWT)](https://github.com/dgrijalva/jwt-go)      
