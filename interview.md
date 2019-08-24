@@ -29,6 +29,21 @@
 * [笔试面试知识整理](https://hit-alibaba.github.io/interview/index.html)    
 
 
+### PHPer面试指南
+
+[PHPer 面试指南-协议篇](https://learnku.com/articles/8874/phper-interview-guide-agreement)    
+[PHPer 面试指南-算法篇](https://learnku.com/articles/7699/phper-interview-guide-algorithmic-article)    
+[PHPer 面试指南-扩展阅读资源整理](https://learnku.com/articles/7651/phper-interview-guide-expanded-reading-resources-collation)    
+[PHPer 面试指南-结语：写给程序员的一些建议](https://learnku.com/articles/7650/phper-interview-guide-conclusion-some-suggestions-for-programmers)    
+[PHPer 面试指南-程序员如何写好一份简历？](https://learnku.com/articles/7649/phper-interview-guide-how-do-programmers-write-a-resume)    
+[PHPer 面试指南-Linux、Git 篇](https://learnku.com/articles/7648/phper-interview-guide-linux-git)    
+[PHPer 面试指南-MySQL 篇](https://learnku.com/articles/7647/phper-interview-guide-mysql)    
+[PHPer 面试指南-Laravel 篇](https://learnku.com/articles/7646/phper-interview-guide-laravel)    
+[PHPer 面试指南-PHP 篇](https://learnku.com/articles/7645/phper-interview-guide-php)    
+[PHPer 面试指南-Web 篇](https://learnku.com/articles/7644/phper-interview-guide-web)    
+[PHPer 面试指南-前言](https://learnku.com/articles/7643/phper-interview-guide-preface)    
+[Laravel、PHPer 面试可能会遇到的问题及答案](https://learnku.com/articles/6201/questions-and-answers-that-laravel-and-phper-interviews-may-encounter)    
+
 ### 经典面试题 
 
 [高并发限流那些事](https://www.qianshan.tech/架构/高并发/高并发限流那些事.html)   
