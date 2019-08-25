@@ -16,6 +16,12 @@ Go学习文档
 [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)        
 [golangbot系列教程翻译](https://www.yuque.com/ksco/ogg7um)   
 
+[Go语言爱好者周刊：第 5 期](https://mp.weixin.qq.com/s/11Jg4EMRuE0vKohMhV_9lw)     
+[Go语言爱好者周刊：第 4 期](https://mp.weixin.qq.com/s/x4isf53w55JohrSjXfDcyg)    
+[Go语言爱好者周刊：第 3 期](https://mp.weixin.qq.com/s/L_Oh9A7_vO9xogVv5AUWag)    
+[Go语言爱好者周刊：第 2 期](https://mp.weixin.qq.com/s/6jiINS8IYTLle4EEtRKfng)    
+[Go语言爱好者周刊：第 1 期](https://mp.weixin.qq.com/s/YWngMSKsSqiBdM8qnj2Iiw)    
+
 ### 第三方库
 [goalert - 一个基于 Go 语言实现的报警和处理报警系统](https://github.com/target/goalert)   
 [geziyor - Go 的分布式爬虫框架](https://github.com/geziyor/geziyor)   
