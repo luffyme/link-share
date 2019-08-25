@@ -39,6 +39,43 @@ Go学习文档
 [Go语言爱好者周刊：第 1 期](https://mp.weixin.qq.com/s/YWngMSKsSqiBdM8qnj2Iiw)    
 
 ### 第三方库
+
+##### web框架
+
+[Tigo是一款用Go语言开发的web应用框架](https://github.com/karldoenitz/Tigo)   
+[beego](https://github.com/astaxie/beego)    
+[caddy](https://github.com/mholt/caddy)    
+[gin](https://github.com/gin-gonic/gin)      
+[iris](https://github.com/kataras/iris)      
+
+##### web周边
+
+[validation 表单验证](github.com/astaxie/beego/validation)     
+[hey 接口压测](https://github.com/rakyll/hey)   
+[mysql 驱动](https://github.com/go-sql-driver/mysql)   
+[go-redis/redis](https://github.com/go-redis/redis)   
+[gomodule/redigo](https://github.com/gomodule/redigo)    
+[jinzhu/gorm](https://github.com/jinzhu/gorm)    
+[ini 配置文件](github.com/go-ini/ini)    
+[toml 配置解析](https://github.com/BurntSushi/toml)     
+[json 配置解析](https://github.com/tidwall/gjson )    
+[httprouter 路由](https://github.com/julienschmidt/httprouter)    
+
+##### 爬虫
+
+[fake-useragent 模拟useragent](https://github.com/EDDYCJY/fake-useragent)    
+[colly 爬虫框架](https://github.com/gocolly/colly/)   
+[goquery Html解析](https://github.com/PuerkitoBio/goquery)   
+[chromedp/chromedp](https://github.com/chromedp/chromedp)   
+
+##### 调试相关
+
+[go-spew](https://github.com/davecgh/go-spew/)    
+[fresh](https://github.com/gravityblast/fresh)    
+[log](https://github.com/lexkong/log)                
+
+##### 其他
+
 [goalert - 一个基于 Go 语言实现的报警和处理报警系统](https://github.com/target/goalert)   
 [geziyor - Go 的分布式爬虫框架](https://github.com/geziyor/geziyor)   
 [kratos - 哔哩哔哩开源的一套 Go 微服务框架](https://github.com/bilibili/kratos)
