@@ -50,13 +50,13 @@ Go学习文档
 
 ##### web周边
 
-[validation 表单验证](github.com/astaxie/beego/validation)     
+[validation 表单验证](https://github.com/astaxie/beego/validation)     
 [hey 接口压测](https://github.com/rakyll/hey)   
 [mysql 驱动](https://github.com/go-sql-driver/mysql)   
 [go-redis/redis](https://github.com/go-redis/redis)   
 [gomodule/redigo](https://github.com/gomodule/redigo)    
 [jinzhu/gorm](https://github.com/jinzhu/gorm)    
-[ini 配置文件](github.com/go-ini/ini)    
+[ini 配置文件](https://github.com/go-ini/ini)    
 [toml 配置解析](https://github.com/BurntSushi/toml)     
 [json 配置解析](https://github.com/tidwall/gjson )    
 [httprouter 路由](https://github.com/julienschmidt/httprouter)    
