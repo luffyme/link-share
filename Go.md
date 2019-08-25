@@ -13,8 +13,24 @@ Go学习文档
 [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)    
 [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)        
 [gobyexample](https://gobyexample.com)    
+[gobyexample](https://books.studygolang.com/gobyexample/)    
 [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)        
 [golangbot系列教程翻译](https://www.yuque.com/ksco/ogg7um)   
+[awesome-go](https://awesome-go.com)    
+[studygolang](https://studygolang.com/)     
+[High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)        
+[Go语言四十二章经](https://github.com/ffhelicopter/Go42)    
+[Go语言入门教程](http://c.biancheng.net/golang/)    
+[Go语言开发学习教程](https://blog.51cto.com/9291927/2138691)    
+[在线运行Golang](https://play.golang.org/)   
+[Go夜读 - developer-learning](https://github.com/developer-learning)    
+[Go夜读](https://reading.developerlearning.cn/)     
+[煎鱼的博客](https://github.com/EDDYCJY/blog)    
+[Go语言圣经](https://books.studygolang.com/gopl-zh/?tdsourcetag=s_pcqq_aiomsg)        
+[Golang从入门到跑路](https://github.com/jiujuan/go-collection?tdsourcetag=s_pcqq_aiomsg)         
+
+
+### Go语言爱好者周刊
 
 [Go语言爱好者周刊：第 5 期](https://mp.weixin.qq.com/s/11Jg4EMRuE0vKohMhV_9lw)     
 [Go语言爱好者周刊：第 4 期](https://mp.weixin.qq.com/s/x4isf53w55JohrSjXfDcyg)    
@@ -50,3 +66,6 @@ Go学习文档
 [Go社区的知识图谱](https://github.com/gocn/knowledge)      
 [gophers的各种图标](https://github.com/egonelbre/gophers)   
 [Golang implementation of JSON Web Tokens (JWT)](https://github.com/dgrijalva/jwt-go)      
+[Golang 新手可能会踩的 50 个坑](https://segmentfault.com/a/1190000013739000)     
+[写给新手的 Go 开发指南](https://liujiacai.net/blog/2019/07/17/hello-golang/?tdsourcetag=s_pcqq_aiomsg)     
+[也许是最简洁版本，一篇文章上手Go语言](https://mp.weixin.qq.com/s/BZZYyPMcVayyPyt5ysVSbw?tdsourcetag=s_pcqq_aiomsg)     
