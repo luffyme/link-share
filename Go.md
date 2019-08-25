@@ -14,7 +14,7 @@ Go学习文档
 [为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)        
 [gobyexample](https://gobyexample.com)    
 [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md)        
-
+[golangbot系列教程翻译](https://www.yuque.com/ksco/ogg7um)   
 
 ### 第三方库
 [goalert - 一个基于 Go 语言实现的报警和处理报警系统](https://github.com/target/goalert)   

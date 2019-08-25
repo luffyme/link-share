@@ -27,7 +27,7 @@
 * [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md)    
 * [前端开发面试题大收集，前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 * [笔试面试知识整理](https://hit-alibaba.github.io/interview/index.html)    
-
+* [算法教学视频](https://algocasts.io/)
 
 ### PHPer面试指南
 
@@ -43,6 +43,12 @@
 [PHPer 面试指南-Web 篇](https://learnku.com/articles/7644/phper-interview-guide-web)    
 [PHPer 面试指南-前言](https://learnku.com/articles/7643/phper-interview-guide-preface)    
 [Laravel、PHPer 面试可能会遇到的问题及答案](https://learnku.com/articles/6201/questions-and-answers-that-laravel-and-phper-interviews-may-encounter)    
+
+### 简历制作
+
+[橙子简历：在线简历制作网站-制作简历，告别word排版](https://wonderfulcv.com/)    
+[冷熊简历](http://cv.ftqq.com/)
+
 
 ### 经典面试题 
 

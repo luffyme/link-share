@@ -8,6 +8,21 @@
 * [面试专题](interview.md)
 * [经常关注的](Blog.md)
 
+### 20190825
+
+[现代浏览器（chrome）的工作原理 第一部分](https://developers.google.com/web/updates/2018/09/inside-browser-part1)    
+[现代浏览器（chrome）的工作原理 第二部分](https://developers.google.com/web/updates/2018/09/inside-browser-part2)    
+[OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/)   
+[ngx_http_lua_module中文文档](https://github.com/iresty/nginx-lua-module-zh-wiki)   
+[为什么「0.1+0.2!=0.3」，而「0.1+0.3==0.4」](https://blog.huoding.com/2019/08/23/769)   
+[在线执行PHP](https://implode.io)   
+[BufPay 个人收款](https://bufpay.com/)   
+[个人收款方案](https://pay.xu42.com/)    
+[PayJS个人收款](https://payjs.cn/)     
+[京东价保助手](https://jjb.im/)     
+[ 路几：分享精彩的行车记录仪视频](http://www.ruki.pw)   
+
+
 ### 20190824
 
 [Nginx 所使用的 epoll 模型是什么？](https://mp.weixin.qq.com/s/VzxtmZ3sMiW3ClW5fxrb6g)   
