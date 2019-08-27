@@ -7,6 +7,10 @@
 * [面试专题](interview.md)
 * [经常关注的](Blog.md)
 
+### 20190827
+
+[任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html)     
+
 ### 20190826
 
 [极客时间ELK](https://github.com/geektime-geekbang/geektime-ELK)   
