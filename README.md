@@ -7,14 +7,14 @@
 * [面试专题](interview.md)
 * [经常关注的](Blog.md)
 
-### 20190827
-
-[任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html)     
-
 ### 20190826
 
 [极客时间ELK](https://github.com/geektime-geekbang/geektime-ELK)   
 [腾讯云服务器15元/月](https://cloud.tencent.com/act/group/amdv2/index)   
+[任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html)     
+[Git的奇技淫巧](https://github.com/521xueweihan/git-tips)      
+[awesome-go](https://github.com/avelino/awesome-go)     
+[Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)    
 
 ### 20190825
 
