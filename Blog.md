@@ -14,3 +14,6 @@
 * [分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
 * [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 * [购物优惠](http://www.xsldh.net/)
+* [中国远程工作资料大全](https://github.com/greatghoul/remote-working) 
+* [运维实践指南](https://github.com/meetbill/op_practice_book)         
+* [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture) 
