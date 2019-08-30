@@ -18,3 +18,4 @@
 * [运维实践指南](https://github.com/meetbill/op_practice_book)         
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture) 
 * [Easy做的写的那些（自以为）有意思的东西](https://weibo.com/ttarticle/p/show?id=2309404317040323248362)
+* [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
