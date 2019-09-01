@@ -15,6 +15,15 @@
 [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)      
 [awesome-go](https://github.com/avelino/awesome-go)     
 [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)    
+[Kafka原理和实践](https://mp.weixin.qq.com/s/bV8AhqAjQp4a_iXRfobkCQ)    
+[深入理解浏览器原理](https://mp.weixin.qq.com/s/QqpPGWf3IVEDN1t80CZ06Q)   
+[【Web技术】321- 花椒接口Mock方案](https://mp.weixin.qq.com/s/16-rHTNDLZLZH-u-f3xNPw)   
+[Linux 内核揭秘](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html) 
+[redis hash](http://oldblog.antirez.com/post/redis-weekly-update-7.html)    
+[postwoman](https://github.com/liyasthomas/postwoman)      
+[定投 —— 大佬的自我修养](https://github.com/xiaolai/regular-investing-in-box)       
+[互联网上高质量的免费书籍](https://github.com/ruanyf/free-books)    
+
 
 ### 20190825
 
