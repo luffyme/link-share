@@ -28,6 +28,7 @@
 * [前端开发面试题大收集，前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 * [笔试面试知识整理](https://hit-alibaba.github.io/interview/index.html)    
 * [算法教学视频](https://algocasts.io/)
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)       
 
 ### PHPer面试指南
 
@@ -47,7 +48,11 @@
 ### 简历制作
 
 [橙子简历：在线简历制作网站-制作简历，告别word排版](https://wonderfulcv.com/)    
-[冷熊简历](http://cv.ftqq.com/)
+[冷熊简历](http://cv.ftqq.com/)      
+[Deedy-Resume](https://github.com/dyweb/Deedy-Resume-for-Chinese)    
+[cv](https://github.com/Ovilia/cv)      
+[ResumeSample](https://github.com/geekcompany/ResumeSample)          
+[awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)             
 
 
 ### 经典面试题 
