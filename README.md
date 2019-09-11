@@ -7,6 +7,19 @@
 * [面试专题](interview.md)
 * [经常关注的](Blog.md)
 
+### 20190909
+[【我命由我不由天】30多岁的大龄程序员，应该如何保持职场竞争力？](https://mp.weixin.qq.com/s/w8Oy3b8f-0rlw_CQnmgkqg)      
+[程序员的核心竞争力是什么？为什么？](https://www.zhihu.com/question/27180582)    
+[程序员的核心竞争力是什么？](https://www.jianshu.com/p/d73686ba4231)      
+
+[ZooKeeper Doc](https://zookeeper.apache.org/doc/current/index.html)                
+[ZooKeeper Wiki](https://cwiki.apache.org/confluence/display/ZOOKEEPER/)              
+[Zookeeper 原理与实践](https://cloud.tencent.com/developer/article/1043395)             
+[分布式服务框架 Zookeeper — 管理分布式环境中的数据](https://www.ibm.com/developerworks/cn/opensource/os-cn-zookeeper/)              
+[zookeeper有什么缺点？](https://www.zhihu.com/question/42931473)                          
+[ZK系列之ZooKeeper使用入门](https://cloudfeng.github.io/2019/03/19/zookeeper/zk_starting/)                  
+[携程高级构架经理李欣：ZooKeeper在携程的使用及前景](https://www.csdn.net/article/a/2012-09-09/2809775)         
+
 ### 20190826
 
 [极客时间ELK](https://github.com/geektime-geekbang/geektime-ELK)   
