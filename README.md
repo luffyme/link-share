@@ -21,7 +21,7 @@
 [携程高级构架经理李欣：ZooKeeper在携程的使用及前景](https://www.csdn.net/article/a/2012-09-09/2809775)         
 
 [通过Prometheus和Grafana监控Linux进程](http://dockone.io/article/9112)   
-
+[ffmpeg 将视频转GIF](https://mp.weixin.qq.com/s?__biz=MzIyMjg2ODExMA==&mid=2247483913&idx=1&sn=95f7d9baf87e4f0145080a0b7dbe314c&chksm=e827a5e8df502cfe12266e6bd25e69c45f7ba34dc0098c6dda084db3546ad838400f70d5a33f&mpshare=1&scene=23&srcid=0911RQzxgsWXTmsmZod602E5&sharer_sharetime=1568168254077&sharer_shareid=8f631567acf15ee08bc61ef21e538ba3#rd)        
 
 ### 20190826
 
