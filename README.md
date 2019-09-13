@@ -5,6 +5,7 @@
   - [面试专题](interview.md)
   - [经常关注的](Blog.md)
 
+
 - 20190909
   - [【我命由我不由天】30多岁的大龄程序员，应该如何保持职场竞争力？](https://mp.weixin.qq.com/s/w8Oy3b8f-0rlw_CQnmgkqg)
   - [程序员的核心竞争力是什么？为什么？](https://www.zhihu.com/question/27180582)
@@ -22,6 +23,7 @@
   - [TablePlus - MySQL管理工具](https://tableplus.com)
   - [ffmpeg 将视频转GIF](https://mp.weixin.qq.com/s?__biz=MzIyMjg2ODExMA==&mid=2247483913&idx=1&sn=95f7d9baf87e4f0145080a0b7dbe314c&chksm=e827a5e8df502cfe12266e6bd25e69c45f7ba34dc0098c6dda084db3546ad838400f70d5a33f&mpshare=1&scene=23&srcid=0911RQzxgsWXTmsmZod602E5&sharer_sharetime=1568168254077&sharer_shareid=8f631567acf15ee08bc61ef21e538ba3#rd)
   
+
 - 20190826
  - [极客时间ELK](https://github.com/geektime-geekbang/geektime-ELK)
  - [腾讯云服务器15元/月](https://cloud.tencent.com/act/group/amdv2/index)
@@ -38,6 +40,7 @@
  - [定投 —— 大佬的自我修养](https://github.com/xiaolai/regular-investing-in-box)
  - [互联网上高质量的免费书籍](https://github.com/ruanyf/free-books)
 
+
 - 20190825
  - [现代浏览器（chrome）的工作原理 第一部分](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
  - [现代浏览器（chrome）的工作原理 第二部分](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
@@ -50,6 +53,7 @@
  - [PayJS个人收款](https://payjs.cn/)
  - [京东价保助手](https://jjb.im/)
  - [ 路几：分享精彩的行车记录仪视频](http://www.ruki.pw)
+
 
 - 20190824
  - [Nginx 所使用的 epoll 模型是什么？](https://mp.weixin.qq.com/s/VzxtmZ3sMiW3ClW5fxrb6g)
@@ -91,6 +95,7 @@
  - [GitHub's Online Schema Migrations for MySQL](https://github.com/github/gh-ost)
  - [生成动态艺术二维码](https://github.com/sylnsfar/qrcode/blob/master/README-cn.md)
 
+
 - 20190823
  - [Prometheus教程](https://github.com/yunlzheng/prometheus-book)
  - [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook)
@@ -101,6 +106,7 @@
  - [nginxconfig.io：在线生成 Nginx 配置文件网站](https://nginxconfig.io/)
  - [分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
 
+
 - 20190822
  - [分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
  - [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
@@ -109,6 +115,7 @@
  - [语雀 IT 百科](https://www.yuque.com/yuque/blog/yuque-info-tech-encyclopedia)
  - [彻底理解 cookie、session、token](https://mp.weixin.qq.com/s/1Kh18uyEJzM21mc2l5MMCg)
  - [正则表达式教程](https://github.com/ziishaned/learn-regex)
+
 
 - 20190815
  - [如何做一个对账希统](https://mp.weixin.qq.com/s/ZX-XSu5todaKuqSOWvTgxw)
@@ -125,6 +132,7 @@
  - [大众点评订单系统分库分表实践](https://zhuanlan.zhihu.com/p/24036067)
  - [说说分库分表的一个最佳实践](https://mp.weixin.qq.com/s/B4JwxxkJkLVaorNm0L5fCQ)
  - [IaaS，PaaS，SaaS 的区别](http://www.ruanyifeng.com/blog/2017/07/iaas-paas-saas.html)
+
 
 - 20190811
  - [今日热榜](https://tophub.today/)
