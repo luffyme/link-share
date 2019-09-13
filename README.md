@@ -11,6 +11,7 @@
 [【我命由我不由天】30多岁的大龄程序员，应该如何保持职场竞争力？](https://mp.weixin.qq.com/s/w8Oy3b8f-0rlw_CQnmgkqg)      
 [程序员的核心竞争力是什么？为什么？](https://www.zhihu.com/question/27180582)    
 [程序员的核心竞争力是什么？](https://www.jianshu.com/p/d73686ba4231)      
+[剑桥博士：为何中国肯下血本在西方不做的亏本买卖上](https://finance.sina.cn/china/gncj/2019-05-31/detail-ihvhiqay2662671.d.html)            
 
 [ZooKeeper Doc](https://zookeeper.apache.org/doc/current/index.html)                
 [ZooKeeper Wiki](https://cwiki.apache.org/confluence/display/ZOOKEEPER/)              
@@ -21,8 +22,9 @@
 [携程高级构架经理李欣：ZooKeeper在携程的使用及前景](https://www.csdn.net/article/a/2012-09-09/2809775)         
 
 [通过Prometheus和Grafana监控Linux进程](http://dockone.io/article/9112)   
+[Prometheus基础知识介绍](http://www.dockone.io/article/9252)        
 
-
+[TablePlus - MySQL管理工具](https://tableplus.com)           
 ### 20190826
 
 [极客时间ELK](https://github.com/geektime-geekbang/geektime-ELK)   
