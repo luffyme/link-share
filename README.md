@@ -25,6 +25,8 @@
 [Prometheus基础知识介绍](http://www.dockone.io/article/9252)        
 
 [TablePlus - MySQL管理工具](https://tableplus.com)           
+[ffmpeg 将视频转GIF](https://mp.weixin.qq.com/s?__biz=MzIyMjg2ODExMA==&mid=2247483913&idx=1&sn=95f7d9baf87e4f0145080a0b7dbe314c&chksm=e827a5e8df502cfe12266e6bd25e69c45f7ba34dc0098c6dda084db3546ad838400f70d5a33f&mpshare=1&scene=23&srcid=0911RQzxgsWXTmsmZod602E5&sharer_sharetime=1568168254077&sharer_shareid=8f631567acf15ee08bc61ef21e538ba3#rd)        
+
 ### 20190826
 
 [极客时间ELK](https://github.com/geektime-geekbang/geektime-ELK)   
