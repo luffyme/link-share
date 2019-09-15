@@ -20,3 +20,4 @@
 * [Easy做的写的那些（自以为）有意思的东西](https://weibo.com/ttarticle/p/show?id=2309404317040323248362)
 * [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
 * [[Go语言爱好者周刊](https://studygolang.com/go/weekly) 
+* [xargin](http://xargin.com/)
