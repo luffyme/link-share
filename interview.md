@@ -65,6 +65,7 @@
 [HTTPS运行原理解析](https://mp.weixin.qq.com/s/Yd9dVHTlGxFrfm0ynPnn4Q)    
 [前端要知道的HTTPS](https://mp.weixin.qq.com/s/DIFf8VjduO5rviHkgR_8lg)    
 [当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)    
+[https](https://halfrost.com/https-begin/)    
 
 ### 其他面试题
 * [头条面经-PHP/Golang](https://studygolang.com/articles/22663)
