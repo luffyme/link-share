@@ -31,6 +31,7 @@
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)       
 * [caseInterviewQuestions](https://github.com/todayqq/caseInterviewQuestions)         
 * [【剑指Offer学习】【所有面试题汇总】](https://blog.csdn.net/DERRANTCM/article/details/46887821)
+* [GitHub 标星 2.4w+，这个开源项目让算法动起来！](https://mp.weixin.qq.com/s/fIRW0z-AMwFwsvC8hvYnYg)
 
 ### PHPer面试指南
 

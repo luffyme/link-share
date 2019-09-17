@@ -5,6 +5,11 @@
   - [面试专题](interview.md)
   - [经常关注的](Blog.md)
 
+- 20190917
+  - [浅谈滴滴派单算法](https://segmentfault.com/a/1190000020379371)
+  - [日增 1.6K，火爆全网！这个项目很骚气！](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457916015&idx=2&sn=3023eec3b38fa3c28fa423a566bcd973&chksm=8cb6b785bbc13e930e8d27bf2e7d75aed8fa1155d9d22587d1df86fd35a70946c7ce27143db0&token=1642633656&lang=zh_CN#rd)
+  - [简单理解memcached的内存分配](https://mp.weixin.qq.com/s?__biz=MzAwOTU4NzM5Ng==&mid=2455770351&idx=1&sn=575651d30ac78c0e24a63181d037bc20&scene=21#wechat_redirect)
+  - [正确理解memcached，才能更好的使用](https://mp.weixin.qq.com/s/njbvleUr8_PmhdEjZkpCIA)
 
 - 20190909
   - [【我命由我不由天】30多岁的大龄程序员，应该如何保持职场竞争力？](https://mp.weixin.qq.com/s/w8Oy3b8f-0rlw_CQnmgkqg)
