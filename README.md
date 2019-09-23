@@ -5,6 +5,9 @@
   - [面试专题](interview.md)
   - [经常关注的](Blog.md)
 
+- 20190923
+  - [学生优惠权益](https://github.com/ivmm/Student-resources)
+
 - 20190917
   - [浅谈滴滴派单算法](https://segmentfault.com/a/1190000020379371)
   - [日增 1.6K，火爆全网！这个项目很骚气！](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457916015&idx=2&sn=3023eec3b38fa3c28fa423a566bcd973&chksm=8cb6b785bbc13e930e8d27bf2e7d75aed8fa1155d9d22587d1df86fd35a70946c7ce27143db0&token=1642633656&lang=zh_CN#rd)

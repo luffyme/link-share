@@ -33,6 +33,8 @@
 * [【剑指Offer学习】【所有面试题汇总】](https://blog.csdn.net/DERRANTCM/article/details/46887821)
 * [GitHub 标星 2.4w+，这个开源项目让算法动起来！](https://mp.weixin.qq.com/s/fIRW0z-AMwFwsvC8hvYnYg)
 * [Go 语言刷 LeetCode，100% 测试覆盖](https://github.com/halfrost/LeetCode-Go)
+* [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+* [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
 
 ### PHPer面试指南
 
