@@ -36,36 +36,38 @@
 
 ### PHPer面试指南
 
-[PHPer 面试指南-协议篇](https://learnku.com/articles/8874/phper-interview-guide-agreement)    
-[PHPer 面试指南-算法篇](https://learnku.com/articles/7699/phper-interview-guide-algorithmic-article)    
-[PHPer 面试指南-扩展阅读资源整理](https://learnku.com/articles/7651/phper-interview-guide-expanded-reading-resources-collation)    
-[PHPer 面试指南-结语：写给程序员的一些建议](https://learnku.com/articles/7650/phper-interview-guide-conclusion-some-suggestions-for-programmers)    
-[PHPer 面试指南-程序员如何写好一份简历？](https://learnku.com/articles/7649/phper-interview-guide-how-do-programmers-write-a-resume)    
-[PHPer 面试指南-Linux、Git 篇](https://learnku.com/articles/7648/phper-interview-guide-linux-git)    
-[PHPer 面试指南-MySQL 篇](https://learnku.com/articles/7647/phper-interview-guide-mysql)    
-[PHPer 面试指南-Laravel 篇](https://learnku.com/articles/7646/phper-interview-guide-laravel)    
-[PHPer 面试指南-PHP 篇](https://learnku.com/articles/7645/phper-interview-guide-php)    
-[PHPer 面试指南-Web 篇](https://learnku.com/articles/7644/phper-interview-guide-web)    
-[PHPer 面试指南-前言](https://learnku.com/articles/7643/phper-interview-guide-preface)    
-[Laravel、PHPer 面试可能会遇到的问题及答案](https://learnku.com/articles/6201/questions-and-answers-that-laravel-and-phper-interviews-may-encounter)    
+* [PHPer 面试指南-协议篇](https://learnku.com/articles/8874/phper-interview-guide-agreement)    
+* [PHPer 面试指南-算法篇](https://learnku.com/articles/7699/phper-interview-guide-algorithmic-article)    
+* [PHPer 面试指南-扩展阅读资源整理](https://learnku.com/articles/7651/phper-interview-guide-expanded-reading-resources-collation)    
+* [PHPer 面试指南-结语：写给程序员的一些建议](https://learnku.com/articles/7650/phper-interview-guide-conclusion-some-suggestions-for-programmers)    
+* [PHPer 面试指南-程序员如何写好一份简历？](https://learnku.com/articles/7649/phper-interview-guide-how-do-programmers-write-a-resume)    
+* [PHPer 面试指南-Linux、Git 篇](https://learnku.com/articles/7648/phper-interview-guide-linux-git)    
+* [PHPer 面试指南-MySQL 篇](https://learnku.com/articles/7647/phper-interview-guide-mysql)    
+* [PHPer 面试指南-Laravel 篇](https://learnku.com/articles/7646/phper-interview-guide-laravel)    
+* [PHPer 面试指南-PHP 篇](https://learnku.com/articles/7645/phper-interview-guide-php)    
+* [PHPer 面试指南-Web 篇](https://learnku.com/articles/7644/phper-interview-guide-web)    
+* [PHPer 面试指南-前言](https://learnku.com/articles/7643/phper-interview-guide-preface)    
+* [Laravel、PHPer 面试可能会遇到的问题及答案](https://learnku.com/articles/6201/questions-and-answers-that-laravel-and-phper-interviews-may-encounter)    
 
 ### 简历制作
 
-[橙子简历：在线简历制作网站-制作简历，告别word排版](https://wonderfulcv.com/)    
-[冷熊简历](http://cv.ftqq.com/)      
-[Deedy-Resume](https://github.com/dyweb/Deedy-Resume-for-Chinese)    
-[cv](https://github.com/Ovilia/cv)      
-[ResumeSample](https://github.com/geekcompany/ResumeSample)          
-[awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)             
+* [橙子简历：在线简历制作网站-制作简历，告别word排版](https://wonderfulcv.com/)    
+* [冷熊简历](http://cv.ftqq.com/)      
+* [Deedy-Resume](https://github.com/dyweb/Deedy-Resume-for-Chinese)    
+* [cv](https://github.com/Ovilia/cv)      
+* [ResumeSample](https://github.com/geekcompany/ResumeSample)          
+* [awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)             
 
 
 ### 经典面试题 
 
-[高并发限流那些事](https://www.qianshan.tech/架构/高并发/高并发限流那些事.html)   
-[HTTPS运行原理解析](https://mp.weixin.qq.com/s/Yd9dVHTlGxFrfm0ynPnn4Q)    
-[前端要知道的HTTPS](https://mp.weixin.qq.com/s/DIFf8VjduO5rviHkgR_8lg)    
-[当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)    
-[https](https://halfrost.com/https-begin/)    
+* [高并发限流那些事](https://www.qianshan.tech/架构/高并发/高并发限流那些事.html)   
+* [HTTPS运行原理解析](https://mp.weixin.qq.com/s/Yd9dVHTlGxFrfm0ynPnn4Q)    
+* [前端要知道的HTTPS](https://mp.weixin.qq.com/s/DIFf8VjduO5rviHkgR_8lg)    
+* [当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)    
+* [https](https://halfrost.com/https-begin/)    
+* [面试官问你B树和B+树，就把这篇文章丢给他](https://segmentfault.com/a/1190000020416577)
+
 
 ### 其他面试题
 * [头条面经-PHP/Golang](https://studygolang.com/articles/22663)
