@@ -7,6 +7,8 @@
 
 - 20190923
   - [学生优惠权益](https://github.com/ivmm/Student-resources)
+  - [PHP 资源大全中文版](https://github.com/jobbole/awesome-php-cn)
+  - [中文文案排版指北（简体中文版）](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
 
 - 20190917
   - [浅谈滴滴派单算法](https://segmentfault.com/a/1190000020379371)
