@@ -11,6 +11,7 @@
   - [python模拟登陆一些大型网站](https://github.com/Kr1s77/awesome-python-login-model)
   - [Python3网络爬虫实战](https://github.com/Jack-Cherish/python-spider)
   - [Fast, simple and clean video downloader](https://github.com/iawia002/annie)
+  - [learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
   
 - 20190923
   - [学生优惠权益](https://github.com/ivmm/Student-resources)
