@@ -21,3 +21,4 @@
 * [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
 * [[Go语言爱好者周刊](https://studygolang.com/go/weekly) 
 * [xargin](http://xargin.com/)
+* [Git](https://git-scm.com/book/zh/v2/)
