@@ -36,7 +36,12 @@
 * [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 * [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh)
 * [PHPer 面试指南](https://github.com/chengxuhub/PHPerInterviewGuide)
-
+* [软件工程技术面试个人指南](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
+* [Java 知识整合](https://github.com/ZhongFuCheng3y/3y)
+* [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)
+* [technology-talk](https://github.com/aalansehaiyang/technology-talk)
+* [advanced-java](https://github.com/doocs/advanced-java)
+* [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 
 ### PHPer面试指南
 
